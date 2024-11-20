@@ -54,6 +54,11 @@ To run the project, execute the main Python script:
 ```plaintext
 python main.py
 ```
+## Data Analysis Report
+
+A detailed report about the project, including findings, methodologies, and results, is available in this repository. You can view the report here:
+
+[Data Analysis Report](report/Data%20Analysis%20Report.pdf)
 
 ## Contribution
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request for review.
