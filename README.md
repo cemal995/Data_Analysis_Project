@@ -43,7 +43,7 @@ cd Data_Analysis_Project
 3. Create and activate a virtual environment (optional but recommended):
 ```plaintext
 python3 -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+# On Mac: source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 ```
 4. Install the dependencies:
 ```plaintext   
@@ -60,3 +60,5 @@ Contributions are welcome! Please fork the repository, create a feature branch, 
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+Author: Cemalhan Alptekin
